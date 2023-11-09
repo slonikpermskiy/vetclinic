@@ -1,0 +1,31 @@
+[
+{"type":"header","version":"4.9.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"permolga_vet"},
+{"type":"table","name":"jivotni","database":"permolga_vet","data":
+[
+{"VIDJ_":"Собаки                        ","NVIDJ_":"1","MPATH_":"dogs      ","imevid_":"Собака                        ","STATUS_":"0"},
+{"VIDJ_":"Кошки                         ","NVIDJ_":"2","MPATH_":"cats      ","imevid_":"Кошка                         ","STATUS_":"0"},
+{"VIDJ_":"Лошади","NVIDJ_":"3","MPATH_":"3         ","imevid_":"Лошадь","STATUS_":"0"},
+{"VIDJ_":"Коровы                        ","NVIDJ_":"4","MPATH_":"4         ","imevid_":"Корова                        ","STATUS_":"0"},
+{"VIDJ_":"Овцы                          ","NVIDJ_":"5","MPATH_":"5         ","imevid_":"Овца                          ","STATUS_":"0"},
+{"VIDJ_":"Козы                          ","NVIDJ_":"6","MPATH_":"6         ","imevid_":"Коза                          ","STATUS_":"0"},
+{"VIDJ_":"Свиньи                        ","NVIDJ_":"7","MPATH_":"7         ","imevid_":"Свинья                        ","STATUS_":"0"},
+{"VIDJ_":"Птицы                         ","NVIDJ_":"8","MPATH_":"8         ","imevid_":"Курица                        ","STATUS_":"0"},
+{"VIDJ_":"Кролики                       ","NVIDJ_":"9","MPATH_":"9         ","imevid_":"Кролик                        ","STATUS_":"0"},
+{"VIDJ_":"Хомяки                        ","NVIDJ_":"10","MPATH_":"10        ","imevid_":"Хомяк                         ","STATUS_":"0"},
+{"VIDJ_":"Морские свинки                ","NVIDJ_":"11","MPATH_":"11        ","imevid_":"Морская свинка                ","STATUS_":"0"},
+{"VIDJ_":"Рептилии","NVIDJ_":"12","MPATH_":"12        ","imevid_":"Рептилия","STATUS_":"0"},
+{"VIDJ_":"Крысы                         ","NVIDJ_":"13","MPATH_":"13        ","imevid_":"Крыса                         ","STATUS_":"0"},
+{"VIDJ_":"Хорьки                        ","NVIDJ_":"14","MPATH_":"14        ","imevid_":"Хорёк                         ","STATUS_":"0"},
+{"VIDJ_":"Попугаи                       ","NVIDJ_":"15","MPATH_":"15        ","imevid_":"Попугай                       ","STATUS_":"0"},
+{"VIDJ_":"Канарейки                     ","NVIDJ_":"16","MPATH_":"16        ","imevid_":"Канарейка                     ","STATUS_":"0"},
+{"VIDJ_":"Голуби                        ","NVIDJ_":"17","MPATH_":"17        ","imevid_":"Голубь                        ","STATUS_":"0"},
+{"VIDJ_":"Шиншиллы","NVIDJ_":"18","MPATH_":"18        ","imevid_":"Шиншилла","STATUS_":"0"},
+{"VIDJ_":"Песчанки","NVIDJ_":"19","MPATH_":"19        ","imevid_":"Песчанка","STATUS_":"0"},
+{"VIDJ_":"Мыши","NVIDJ_":"20","MPATH_":"20        ","imevid_":"Мышь","STATUS_":"0"},
+{"VIDJ_":"Голуби","NVIDJ_":"21","MPATH_":"21        ","imevid_":"Голубь","STATUS_":"0"},
+{"VIDJ_":"Утки                          ","NVIDJ_":"22","MPATH_":"22        ","imevid_":"Утка                          ","STATUS_":"0"},
+{"VIDJ_":"ГУСИ                          ","NVIDJ_":"23","MPATH_":"23        ","imevid_":"Гусь                          ","STATUS_":"0"}
+]
+}
+]
